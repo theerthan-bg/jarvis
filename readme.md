@@ -206,3 +206,4 @@ jarvis/
 ## ⚠️ License
 
 Personal and non-commercial educational use. Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
+##THIS JARVIS IS DEVLOPED BY THEERTHAN BG
