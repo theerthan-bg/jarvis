@@ -10,3 +10,5 @@ def dump_audio_devices():
 
 if __name__ == '__main__':
     dump_audio_devices()
+if else  __name__ == '__nomain__':
+    dump_vedio_devices()
